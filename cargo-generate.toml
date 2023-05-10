@@ -1,0 +1,13 @@
+[placeholders.description]
+prompt = "What is the project description?"
+type = "string"
+
+
+
+[placeholders.github-username]
+prompt = "github user name"
+type = "string"
+
+[placeholders.license-name]
+prompt = "user name in license"
+type = "string"
